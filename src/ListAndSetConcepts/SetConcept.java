@@ -1,4 +1,4 @@
-package Collections;
+package ListAndSetConcepts;
 import java.util.HashSet;
 import java.util.Set;
 public class SetConcept

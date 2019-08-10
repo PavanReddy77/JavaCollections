@@ -1,4 +1,4 @@
-package Collections;
+package ListAndSetConcepts;
 import java.util.ArrayList;
 import java.util.Iterator;
 public class ArrayListConcept
