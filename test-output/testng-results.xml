@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67" started-at="2019-08-11T15:39:55Z" finished-at="2019-08-11T15:39:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67" started-at="2019-08-11T15:39:55Z" finished-at="2019-08-11T15:39:55Z">
+      <class name="HashMapConcept_C.HashMapInSelenium">
+        <test-method status="PASS" signature="hashMapInSelenium()[pri:0, instance:HashMapConcept_C.HashMapInSelenium@39fb3ab6]" name="hashMapInSelenium" duration-ms="23" started-at="2019-08-11T21:09:55Z" finished-at="2019-08-11T21:09:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hashMapInSelenium -->
+      </class> <!-- HashMapConcept_C.HashMapInSelenium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
